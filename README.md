@@ -11,5 +11,5 @@
 
 | Tool   | Description   |
 |-------------|-------------|
-| [MD5 Cracker](../master/md5_cracker/src/main.rs)  | Fila 1, C2  |
+| [MD5 Cracker](../master/md5_cracker/src/main.rs)  | MD5 password cracker in Rust using a wordlist.  |
 
