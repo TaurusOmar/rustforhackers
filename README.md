@@ -1,1 +1,2 @@
 
+**Rust Red Team Ops Developer** combines offensive techniques for Red Team operators, leveraging one of today's most powerful and robust programming languages: Rust. This repository contains a collection of **my custom tools**, with the main goal of uploading a daily exercise to share with the community the fascinating aspects of this programming language and turning Rust into a weapon for offensive operations.
